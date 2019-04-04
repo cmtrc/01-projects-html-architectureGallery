@@ -1,4 +1,4 @@
-﻿#Bootstrap: Gallery website
+﻿# Bootstrap: Gallery website
 
 Made a website utilizing boostrap 3.4
 
