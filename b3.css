@@ -1,0 +1,55 @@
+body {
+    padding-top: 70px;
+
+}
+
+.navbar-inverse {
+
+background: #7C8E92
+
+}
+
+.navbar-inverse .navbar-nav>li>a {
+
+    color: #AFC4C9;
+}
+
+.navbar-inverse .navbar-brand {
+    color: rgb(54, 64, 66);
+}
+
+.menuDownStyle {
+    color: #7ABBCD;
+}
+
+.redLetter {
+    color: #c81c23;
+}
+
+.skygreyLetter {
+    color: #AFC4C9;
+}
+
+.coldenDustGrey {
+    color: #C9BCB5;
+}
+
+.darkGreyBlue {
+    color: #7C8E92;
+}
+
+.darkOceanBlue {
+    color: #7ABBCD;
+}
+
+.thumbnail {
+    border: none;
+    padding: 16px;
+}
+.thumbnail2{
+    margin: none;
+}
+
+.navbar {
+    border: 1px solid transparent;
+}
