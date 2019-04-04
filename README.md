@@ -4,18 +4,18 @@
 Made a website utilizing boostrap 3.4
 
 
-## About this project:
+### About this project:
 
 - Made this project to learn about the grid system
 
 
 
-### Upper site
+## Upper site
 
 ![mockup](https://i.paste.pics/d825a391a823ebd51838ee896a1a50b0.png)
 
 
-### Further down
+## Further down
 
 ![mockup](https://i.paste.pics/4ac0ef953bfe0d330330c6613fa23038.png)
 
@@ -24,7 +24,7 @@ Made a website utilizing boostrap 3.4
 
 
 
-#### Tags
+## Tags
 
 * html
 * css
