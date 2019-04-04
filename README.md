@@ -2,7 +2,7 @@
 
 Made a website utilizing boostrap 3.4
 
-https://i.paste.pics/d825a391a823ebd51838ee896a1a50b0.png
+![mockup](https://i.paste.pics/d825a391a823ebd51838ee896a1a50b0.png)
 
 
 ## About this project:
